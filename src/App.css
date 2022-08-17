@@ -8,3 +8,9 @@ body {
   background-color: #2c3e50;
   color: #fff;
 }
+
+
+.container .cardRow {
+  display: flex;
+  flex-wrap: wrap;
+}
