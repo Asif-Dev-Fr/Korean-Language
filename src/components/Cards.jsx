@@ -1,19 +1,26 @@
-import Button from 'react-bootstrap/Button';
-import Card from 'react-bootstrap/Card';
+import Button from "react-bootstrap/Button";
+import Card from "react-bootstrap/Card";
+import ListGroup from "react-bootstrap/ListGroup";
 
 const Cards = ({ data }) => {
   return (
-    <Card style={{ width: '18rem', color: "#000", marginLeft: "5px" }} className="mt-3">
+    <Card className="card">
       <Card.Body>
-        <Card.Title>{ data.character }</Card.Title>
-        <Card.Text>
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
-        </Card.Text>
-
+        <Card.Title>{data.character}</Card.Title>
       </Card.Body>
+      <ListGroup variant="flush">
+        <ListGroup.Item>{data.romanization}</ListGroup.Item>
+        <ListGroup.Item className="sentence">
+          <span
+            dangerouslySetInnerHTML={{
+              __html: data.sentence ? data.sentence : "-",
+            }}
+          ></span>
+        </ListGroup.Item>
+        <ListGroup.Item>Vestibulum at eros</ListGroup.Item>
+      </ListGroup>
     </Card>
-  )
-}
+  );
+};
 
-export default Cards
+export default Cards;

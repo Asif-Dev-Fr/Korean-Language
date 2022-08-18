@@ -60,7 +60,7 @@
       "name": "시옷",
       "pronunciation": "스",
       "romanization": ["s", "t"],
-      "type": "consonant", 
+      "type": "consonant",
       "sentence": "ㅅ “shiot” s [s] makes the same sound as the s in <strong>s</strong>poon. 사과 is pronounced sa gwa which means apple."
     },
     {
@@ -69,7 +69,8 @@
       "name": "이응",
       "pronunciation": "응",
       "romanization": ["", "ng"],
-      "type": "consonant"
+      "type": "consonant",
+      "sentence": "ㅇ “ieng” silent/ng [ŋ] silent sound or ng sound like in ya<strong>ng</strong>. 방 is pronounced bang which means room."
     },
     {
       "char_id": "j",
@@ -77,7 +78,8 @@
       "name": "지읒",
       "pronunciation": "즈",
       "romanization": ["j", "t"],
-      "type": "consonant"
+      "type": "consonant",
+      "sentence": "ㅈ “jiet” j [ts] makes the same sound as the j in <strong>j</strong>elly. 지도 is pronounced jido which means map."
     },
     {
       "char_id": "ch",
@@ -85,7 +87,8 @@
       "name": "치읓",
       "pronunciation": "츠",
       "romanization": ["ch", "t"],
-      "type": "consonant"
+      "type": "consonant",
+      "sentence": "ㅊ “chiet” ch [sʰ] makes the same sound as the ch in <strong>ch</strong>air. 친구 is pronounced as chingu which means friend."
     },
     {
       "char_id": "k",
@@ -93,7 +96,8 @@
       "name": "키읔",
       "pronunciation": "크",
       "romanization": ["k", "k"],
-      "type": "consonant"
+      "type": "consonant",
+      "sentence": "ㅋ “kiuek” k [kʰ] makes the same sound as the k in <strong>k</strong>iwi. 커피 is pronounced as kopi which means coffee."
     },
     {
       "char_id": "t",
@@ -101,7 +105,8 @@
       "name": "티읕",
       "pronunciation": "트",
       "romanization": ["t", "t"],
-      "type": "consonant"
+      "type": "consonant",
+      "sentence": "ㅌ “tiet” t [tʰ] makes the same sound as the t in <strong>t</strong>able. 토마토 is pronounced tomato which is the same word in English, tomato! This one is easy!"
     },
     {
       "char_id": "p",
@@ -109,7 +114,8 @@
       "name": "피읖",
       "pronunciation": "프",
       "romanization": ["p", "p"],
-      "type": "consonant"
+      "type": "consonant",
+      "sentence": "ㅍ “piep” p [pʰ] makes the same sound as the p in <strong>p</strong>anda. 팔 is pronounced pal which means arm."
     },
     {
       "char_id": "h",
@@ -117,7 +123,8 @@
       "name": "히잏",
       "pronunciation": "흐",
       "romanization": ["h", "t"],
-      "type": "consonant"
+      "type": "consonant",
+      "sentence": "“hiet” h [h] makes the same sound as the h in <strong>h</strong>at. 하늘 is pronounced haneul which means sky."
     },
     {
       "char_id": "a",
@@ -125,7 +132,8 @@
       "name": "아",
       "pronunciation": "아",
       "romanization": ["a"],
-      "type": "vowel"
+      "type": "vowel",
+      "sentence": "ㅏ a [a] makes the same sound as the a at the end of sant<strong>a</strong>. 차 is pronounced cha which means car."
     },
     {
       "char_id": "eo",
@@ -133,7 +141,8 @@
       "name": "어",
       "pronunciation": "어",
       "romanization": ["eo"],
-      "type": "vowel"
+      "type": "vowel",
+      "sentence": "ㅓ eo [ʌ] makes the same sound as o in s<strong>o</strong>ng without the ng sound. 버스 is pronounced bosseu which means bus."
     },
     {
       "char_id": "o",
@@ -141,7 +150,8 @@
       "name": "오",
       "pronunciation": "오",
       "romanization": ["o"],
-      "type": "vowel"
+      "type": "vowel",
+      "sentence": "ㅗ o [o] makes the same sound as the o in d<strong>o</strong>ll. 봄 is pronounced bom which means spring."
     },
     {
       "char_id": "u",
@@ -149,7 +159,8 @@
       "name": "우",
       "pronunciation": "우",
       "romanization": ["u"],
-      "type": "vowel"
+      "type": "vowel",
+      "sentence": "ㅜ u [u] makes the same sound as the u in <strong>u</strong>nicorn. 문 is pronounced mun which means door."
     },
     {
       "char_id": "eu",
@@ -157,7 +168,8 @@
       "name": "으",
       "pronunciation": "으",
       "romanization": ["eu"],
-      "type": "vowel"
+      "type": "vowel",
+      "sentence": "ㅡ eu [ɨ] This sound does not exist in English. The best comparison of this sound is when you are confused with something… “uh?”."
     },
     {
       "char_id": "i",
@@ -165,7 +177,8 @@
       "name": "이",
       "pronunciation": "이",
       "romanization": ["i"],
-      "type": "vowel"
+      "type": "vowel",
+      "sentence": "ㅣ i [i] makes the same sound as the y in bab<strong>y</strong>. 아이 is pronounced a e which means child."
     },
     {
       "char_id": "ya",
@@ -205,7 +218,8 @@
       "name": "쌍기역",
       "pronunciation": "끄",
       "romanization": ["kk", "k"],
-      "type": "consonant"
+      "type": "consonant",
+      "sentence": "ㄲ “ssang giyeok” kk [k*] makes the same sound as the k in s<strong>k</strong>i. 꿀 is pronounced kkul which means honey. "
     },
     {
       "char_id": "tt",
@@ -213,7 +227,8 @@
       "name": "쌍디귿",
       "pronunciation": "뜨",
       "romanization": ["tt", "t"],
-      "type": "consonant"
+      "type": "consonant",
+      "sentence": "ㄸ “ssang diget” tt [t*] makes the same sound as the t in ki<strong>tt</strong>en. 딸 is pronounced ddal which means daughter."
     },
     {
       "char_id": "pp",
@@ -221,7 +236,8 @@
       "name": "쌍비읍",
       "pronunciation": "쁘",
       "romanization": ["pp", "p"],
-      "type": "consonant"
+      "type": "consonant",
+      "sentence": "ㅃ “ssang biep” p [p*] makes the same sound as the p in a<strong>p</strong>artment. 아빠 is pronounced appa which means dad."
     },
     {
       "char_id": "ss",
@@ -229,7 +245,8 @@
       "name": "쌍시옷",
       "pronunciation": "쓰",
       "romanization": ["ss", "t"],
-      "type": "consonant"
+      "type": "consonant",
+      "sentence": "ㅆ “ssang shiot” ss [s*] makes the same sound as the sh in su<strong>sh</strong>i. 쑥 is pronounced ssuk which means mugwort (a traditional plant in Korea used in medicine and cosmetics)."
     },
     {
       "char_id": "jj",
@@ -237,7 +254,8 @@
       "name": "쌍지읒",
       "pronunciation": "쯔",
       "romanization": ["jj", "t"],
-      "type": "consonant"
+      "type": "consonant",
+      "sentence": "ㅉ “ssang jiet” [tsʰ] is also a bit tricky because there is no equivalent in the English language."
     },
     {
       "char_id": "ae",

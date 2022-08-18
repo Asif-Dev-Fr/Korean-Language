@@ -9,8 +9,25 @@ body {
   color: #fff;
 }
 
-
 .container .cardRow {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+}
+
+.container .cardRow .card {
+  width: 18rem;
+  color: #000;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+.container .cardRow .card .card-body .card-title {
+  font-size: 42px;
+  text-align: center;
+  font-weight: 600;
+}
+
+.container .cardRow .card .list-group .sentence {
+  height: 120px;
 }
