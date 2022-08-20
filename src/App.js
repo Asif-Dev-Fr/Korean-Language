@@ -14,7 +14,6 @@ function App() {
           <Route path="/" element={<Homepage />} />
           <Route path="/hangul" element={<Hangul />} />
           <Route path="/quiz/hangul" element={<HangulQuiz />} />
-
         </Routes>
       </Router>
     </div>

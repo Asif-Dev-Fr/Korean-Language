@@ -3,13 +3,22 @@ import Card from "react-bootstrap/Card";
 import ListGroup from "react-bootstrap/ListGroup";
 
 const Cards = ({ data }) => {
+
+  // Methods 
+  const upperCase = (str) => {
+    let tmp = []
+    for(let character of str) {
+      tmp.push(character.toUpperCase())
+    }
+    return tmp
+  }
   return (
     <Card className="card">
       <Card.Body>
         <Card.Title>{data.character}</Card.Title>
       </Card.Body>
       <ListGroup variant="flush">
-        <ListGroup.Item>{data.romanization}</ListGroup.Item>
+        <ListGroup.Item className="text-center">{upperCase(data.romanization)}</ListGroup.Item>
         <ListGroup.Item className="sentence">
           <span
             dangerouslySetInnerHTML={{
@@ -17,7 +26,6 @@ const Cards = ({ data }) => {
             }}
           ></span>
         </ListGroup.Item>
-        <ListGroup.Item>Vestibulum at eros</ListGroup.Item>
       </ListGroup>
     </Card>
   );
