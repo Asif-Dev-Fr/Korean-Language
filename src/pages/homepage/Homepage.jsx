@@ -8,6 +8,8 @@ const Homepage = () => {
       <div className="homepage">
         <Link to="/hangul">
           <Button variant="warning">Hangul List</Button>
+        </Link>
+        <Link to="/quiz/hangul">
           <Button variant="success">Hangul Quiz</Button>
         </Link>
       </div>
